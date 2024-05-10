@@ -26,10 +26,21 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/320px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" group-title="All Channels",PTV News
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16700
 
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Food Network
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16796
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",KBS World
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16713
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",One Sports
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
+
+
 
 
 
