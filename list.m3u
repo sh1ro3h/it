@@ -29,3 +29,6 @@ https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="All Channels",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
