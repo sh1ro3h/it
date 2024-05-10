@@ -20,7 +20,7 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731805&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/320px-ABC_News_logo_2021.svg.png" group-title="All Channels",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
@@ -28,7 +28,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/320px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" group-title="All Channels",PTV News
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16700
 
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NickToons (720p)
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Food Network
@@ -45,7 +45,7 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="All Channels",GTV
-https://jeromelaliag.link/iptv/channel.php?ch=1
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png" group-title="All Channels",NBA Philippines
 https://jeromelaliag.link/iptv/channel.php?ch=2
@@ -63,16 +63,24 @@ https://jeromelaliag.link/iptv/channel.php?ch=7
 https://jeromelaliag.link/iptv/channel.php?ch=8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="All Channels",Cinemo!
-https://jeromelaliag.link/iptv/channel.php?ch=cinemo
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731855&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/DEPED.png" group-title="All Channels", DEPED TV
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926186&extension=ts
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="All Channels", DREAMWORKS
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926185&extension=ts
+
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/GMA-NEWS-TV.png" group-title="All Channels" GMA News TV
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=223025&extension=ts
+
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels", HITS MOVIES
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extension=ts
+
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="All Channels", PBO
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extension=ts
 
 
-
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="" group-title="All Channels",NASA TV Media (720p)
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="" group-title="All Channels",NASA TV Public (720p)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="" group-title="All Channels",NASA TV UHD (2160p)
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
@@ -80,6 +88,13 @@ http://170.254.18.106/HBO_MUNDI/index.m3u8
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="" group-title="All Channels",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="" group-title="All Channels",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="" group-title="All Channels",NASA TV UHD (2160p)
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5HD.th" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV5 HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
