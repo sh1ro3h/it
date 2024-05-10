@@ -24,8 +24,7 @@ https://jeromelaliag.link/iptv/channel.php?ch=cinemo
 #EXTINF:-1 tvg-id="" tvg-logo="https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8" group-title="All Channels",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152
-" group-title="All Channels",MYX
+#EXTINF:-1 tvg-id="" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152" group-title="All Channels",MYX
 https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",INCTV
