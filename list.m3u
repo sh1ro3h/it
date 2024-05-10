@@ -65,19 +65,19 @@ https://jeromelaliag.link/iptv/channel.php?ch=8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="All Channels",Cinemo!
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731855&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/DEPED.png" group-title="All Channels", DEPED TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/DEPED.png" group-title="All Channels",DEPED TV
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926186&extension=ts
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="All Channels", DREAMWORKS
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="All Channels",DREAMWORKS
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926185&extension=ts
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/GMA-NEWS-TV.png" group-title="All Channels" GMA News TV
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/GMA-NEWS-TV.png" group-title="All Channels",GMA News TV
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=223025&extension=ts
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels", HITS MOVIES
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels",HITS MOVIES
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extension=ts
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="All Channels", PBO
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="All Channels",PBO
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extension=ts
 
 
