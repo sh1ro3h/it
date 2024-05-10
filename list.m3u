@@ -25,7 +25,7 @@ https://jeromelaliag.link/iptv/channel.php?ch=cinemo
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152" group-title="All Channels",MYX
-https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v3a1/mono.m3u8
@@ -38,3 +38,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Cartoon Network SEA
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
