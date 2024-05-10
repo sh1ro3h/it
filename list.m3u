@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="All Channels",GTV
+https://jeromelaliag.link/iptv/channel.php?ch=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jeromelaliag.link/iptv/channel.php?ch=2" group-title="All Channels",NBA Philippines
+https://jeromelaliag.link/iptv/channel.php?ch=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="All Channels",TV5
+https://jeromelaliag.link/iptv/channel.php?ch=5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jeromelaliag.link/iptv/channel.php?ch=4" group-title="All Channels",VIVA Cinema
+https://jeromelaliag.link/iptv/channel.php?ch=4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png" group-title="All Channels",Solar Flix
+https://jeromelaliag.link/iptv/channel.php?ch=7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jeromelaliag.link/iptv/channel.php?ch=8" group-title="All Channels",Celestial Classic Movies
+https://jeromelaliag.link/iptv/channel.php?ch=8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jeromelaliag.link/iptv/channel.php?ch=cinemo" group-title="All Channels",Cinemo
+https://jeromelaliag.link/iptv/channel.php?ch=cinemo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8" group-title="All Channels",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152
+" group-title="All Channels",MYX
+https://myxnola-abscbn-ono.amagi.tv/index_4_12983162.ts?m=1652244152
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",INCTV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v3a1/mono.m3u8
