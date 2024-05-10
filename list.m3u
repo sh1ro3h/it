@@ -44,3 +44,28 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-id="PTV.ph",PTV (720p)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
+
+#EXTINF:-1 tvg-id="UNTV.ph",UNTV (576p)
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+
+#EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVUHD.us",NASA TV UHD (2160p)
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-id="",HBO Family
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5HD.th" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV5 HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
+
