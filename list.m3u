@@ -36,7 +36,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",ABC
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",SMNI
+#EXTINF:-1 tvg-logo="" group-title="All Channels",SMNI tvg-id="SMNI.ph",SMNI (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Cartoon Network SEA
