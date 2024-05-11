@@ -29,7 +29,7 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
-http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731805&extension=ts
+https://playback2.akamaized.net/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/master.m3u8?dw=32&hdnts=exp=1715410126~acl=/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/master.m3u8*~hmac=f102b2dc73d3b1afb95e38968fcba7cd36d32443effcf8880944ac1ecad2fbe4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/320px-ABC_News_logo_2021.svg.png" group-title="All Channels",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
@@ -52,6 +52,8 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/320px-Bloomberg_Television_logo.svg.png" group-title="All Channels",Bloomberg
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/320px-Al_Jazeera_Media_Network_Logo.svg.png" group-title="All Channels",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
 
