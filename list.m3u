@@ -159,9 +159,6 @@ http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731855&extens
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels",HITS MOVIES
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extension=ts
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="All Channels",PBO
-http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/320px-HBO_Signature.svg.png" group-title="All Channels",HBO Signature
 http://170.254.18.106/HBO_SIG/tracks-v2a1/mono.m3u8
 
@@ -179,6 +176,9 @@ http://170.254.18.106/HBO_XTREME/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/320px-AMC_logo_2019.svg.png" group-title="All Channels",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/c1eaf906-2a2d-4d3b-a0e6-7ab2bb322b04/0.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="All Channels",PBO
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/320px-Paramount_Network_2024.svg.png" group-title="All Channels",Paramount Network
 http://170.254.18.106/PARAMOUNT/tracks-v1a1/mono.m3u8
