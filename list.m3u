@@ -23,7 +23,7 @@ https://playback2.akamaized.net/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/m
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/d7324ea34d8417a9885049590963707e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/320px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="All Channels",ANC
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/containerA/cnn-emea-hd/playlist_960x540_2000k_2812762.ts
+https://ancglobal-abscbn-ono.amagi.tv/playlist270_p.m3u8
 
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/UNTV-Logo-2016.svg" group-title="All Channels",UNTV
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
