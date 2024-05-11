@@ -49,7 +49,7 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16713
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/314px-One_Sports_logo.svg.png" group-title="All Channels",One Sports
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/320px-Bloomberg_Television_logo.svg.png" group-title="All Channels",Bloomberg
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
 
@@ -97,21 +97,22 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",HBO Mundi
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/320px-HBO_Mundi.svg.png" group-title="All Channels",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="All Channels",HBO Family
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",HBO 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="All Channels",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="" group-title="All Channels",NASA TV Media (720p)
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="All Channels",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="" group-title="All Channels",NASA TV Public (720p)
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="All Channels",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="" group-title="All Channels",NASA TV UHD (2160p)
+#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="All Channels",NASA TV UHD (2160p)
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV5HD.th" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV5 HD (720p)
+#EXTINF:-1 tvg-id="TV5HD.th",TV5 HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
+
 
