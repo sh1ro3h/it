@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="All Channels",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/d7324ea34d8417a9885049590963707e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",ANC
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/containerA/cnn-emea-hd/playlist_960x540_2000k_2812762.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png?imwidth=256" group-title="All Channels",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543e1e7d6c648693d43665cef343a7f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a9b21d1a9d7944e39f429fd14da681d50ec85ed720f5468097f283d413d1859862ac56e0060d32511542016be9ab6e9198f35a30927629561147e3d1fc942c1db53788d8659db1db44ec1acff34ae9bcb6a972f17c8d3e8d6aba06b5e404c4c7d98910137ccc4c3c107897de715577a16cc46d01b5151ff845b9bc7a5954c06c9711223697fcdb1b96c62f44d7499199660731cc9d44d4c8fcd3aff8ba439221c5d0e7d813760e32544cd606e2ad64d57f8923e8d64575150d65bd8a59c1b1dc5c1b6b5bc9d50d835d48ef9bc3a8f73a16e62c5b56e16bdc1b2269cf3f6335a50ef18833618c695bd46173ab1660d711a9f67dacfe9bd6073db4ccce0daa3cb8fb59848477c3070b500cb7fd3b4c051d2da28948397028930bb4a9898b112e0fe3f0c1fbba231b0f2b185f09cbafa7479280c4260a0583340265671b039914dc0b8b5851617eac165f876c7da6599299ea911e4314/48/426x240_511680/index.m3u8
 
@@ -33,14 +39,17 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16700
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/240px-Food_Network_logo.svg.png" group-title="All Channels",Food Network
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16796
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",KBS World
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="All Channels",KBS World
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16713
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",One Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/314px-One_Sports_logo.svg.png" group-title="All Channels",One Sports
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",Bloomberg
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
 
 
@@ -81,6 +90,10 @@ http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extens
 
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="All Channels",PBO
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/320px-AMC_logo_2019.svg.png" group-title="All Channels",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/c1eaf906-2a2d-4d3b-a0e6-7ab2bb322b04/0.m3u8
+
 
 
 
