@@ -82,16 +82,16 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_1000000=3.m3u8
 
 #EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="All Channels",Disney Jr East HD
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/655
+
 
 #EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="All Channels",Disney Jr West HD
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/656
+
 
 #EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s60006_ll_h3_aa.png" group-title="USA KIDS",Disney XD East HD
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/657
+
 
 #EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s18279_ll_h3_aa.png" group-title="All Channels",Disney XD West HD
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/658
+
 
 #EXTINF: -1 tvg-logo="http://iptvboss.xyz/logos/USA/NickJr.us.png" group-title="All Channels",Nick Jr West FHD
 
@@ -127,14 +127,14 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16756
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="All Channels",DREAMWORKS
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926185&extension=ts
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Gltv2017.png/revision/latest?cb=20220727064811" group-title="LOCAL CHANEL PH", PH GMA LIFE
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Gltv2017.png/revision/latest?cb=20220727064811" group-title="All Channels",GMA LIFE
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/GMA_News_TV_Logo_%28from_GMA_News_TV_International%29.png/revision/latest?cb=20171225110006" group-title="LOCAL CHANEL PH", PH GMA News TV
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/GMA_News_TV_Logo_%28from_GMA_News_TV_International%29.png/revision/latest?cb=20171225110006" group-title="All Channels",GMA News TV
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_%282011%29.png/revision/latest/scale-to-width-down/1000?cb=20230617204705" group-title="LOCAL CHANEL PH", PH GMA Pinoy TV
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_%282011%29.png/revision/latest/scale-to-width-down/1000?cb=20230617204705" group-title="All Channels",GMA Pinoy TV
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels",HITS MOVIES
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extension=ts
