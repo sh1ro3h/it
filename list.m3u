@@ -16,20 +16,35 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/46/Myx_Logo_2021.png/revision/latest?cb=20210628131301" group-title="All Channels",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/314px-One_Sports_logo.svg.png" group-title="All Channels",One Sports
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="All Channels",TV5
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png" group-title="All Channels",NBA Philippines
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="All Channels",VIVA Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="All Channels",TV5
 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Gltv2017.png/revision/latest?cb=20220727064811" group-title="All Channels",GMA LIFE
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/GMA_News_TV_Logo_%28from_GMA_News_TV_International%29.png/revision/latest?cb=20171225110006" group-title="All Channels",GMA News TV
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_%282011%29.png/revision/latest/scale-to-width-down/1000?cb=20230617204705" group-title="All Channels",GMA Pinoy TV
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="All Channels",GTV
 #https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/320px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" group-title="All Channels",PTV News
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="All Channels",VIVA Cinema
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png" group-title="All Channels",Solar Flix
 
@@ -66,7 +81,12 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/320px-ABC_News_logo_2021.svg.png" group-title="All Channels",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
-#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/320px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" group-title="All Channels",PTV News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" group-title="All Channels",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/320px-CGTN.svg.png" group-title="All Channels",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/320px-Discovery_Asia_logo.svg.png" group-title="All Channels",Discovery Asia
@@ -75,11 +95,12 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_2999
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/320px-Arirang-TV-Logo.svg.png" group-title="All Channels",Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NICK JR
 
-
-#EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="All Channels",Cartoonito HD
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_1000000=3.m3u8
 
 #EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="All Channels",Disney Jr East HD
 
@@ -111,30 +132,22 @@ https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_1000000=3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="All Channels",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/314px-One_Sports_logo.svg.png" group-title="All Channels",One Sports
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" group-title="All Channels",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="All Channels",Cinemo!
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731855&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/DEPED.png" group-title="All Channels",DEPED TV
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16756
+
+
+
+#EXTINF: -1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="All Channels",Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_1000000=3.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="All Channels",DREAMWORKS
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926185&extension=ts
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Gltv2017.png/revision/latest?cb=20220727064811" group-title="All Channels",GMA LIFE
-#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/GMA_News_TV_Logo_%28from_GMA_News_TV_International%29.png/revision/latest?cb=20171225110006" group-title="All Channels",GMA News TV
-#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_%282011%29.png/revision/latest/scale-to-width-down/1000?cb=20230617204705" group-title="All Channels",GMA Pinoy TV
-#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels",HITS MOVIES
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extension=ts
@@ -145,18 +158,6 @@ http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extens
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/320px-AMC_logo_2019.svg.png" group-title="All Channels",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/c1eaf906-2a2d-4d3b-a0e6-7ab2bb322b04/0.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/320px-Fashion_TV_logo.svg.png" group-title="All Channels",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/f711df33773d2dc83a1be49b8e841b00.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/254px-France24.png" group-title="All Channels",France 24
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Macau_lotus.svg/205px-Macau_lotus.svg.png" group-title="All Channels",Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_1067600=293.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest?cb=20170428060035" group-title="All Channels",Outdoor Channel
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/320px-HBO_Signature.svg.png" group-title="All Channels",HBO Signature
 http://170.254.18.106/HBO_SIG/tracks-v2a1/mono.m3u8
@@ -187,8 +188,26 @@ http://210.210.155.37/session/4fb266c4-0fbe-11ef-8c9a-91fd9b22f06b/dr9445/h/h15/
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942" group-title="All Channels",ROCK Entertainment
 http://210.210.155.37/session/690090a6-0fbe-11ef-afeb-af4883a0ad83/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/320px-CGTN.svg.png" group-title="All Channels",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/320px-Fashion_TV_logo.svg.png" group-title="All Channels",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/f711df33773d2dc83a1be49b8e841b00.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/254px-France24.png" group-title="All Channels",France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Macau_lotus.svg/205px-Macau_lotus.svg.png" group-title="All Channels",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_1067600=293.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest?cb=20170428060035" group-title="All Channels",Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/DEPED.png" group-title="All Channels",DEPED TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16756
+
 
 
 
