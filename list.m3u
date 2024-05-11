@@ -16,6 +16,9 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/46/Myx_Logo_2021.png/revision/latest?cb=20210628131301" group-title="All Channels",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
+https://playback2.akamaized.net/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/master.m3u8?dw=32&hdnts=exp=1715410126~acl=/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/master.m3u8*~hmac=f102b2dc73d3b1afb95e38968fcba7cd36d32443effcf8880944ac1ecad2fbe4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="All Channels",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/d7324ea34d8417a9885049590963707e.m3u8
 
@@ -27,9 +30,6 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/INC_TV_New_Logo.png/64px-INC_TV_New_Logo.png?20220805101225=" group-title="All Channels",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
-https://playback2.akamaized.net/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/master.m3u8?dw=32&hdnts=exp=1715410126~acl=/streams/19079954_7831871_lsi6ab48kmu0l3p8wiw_1/master.m3u8*~hmac=f102b2dc73d3b1afb95e38968fcba7cd36d32443effcf8880944ac1ecad2fbe4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/320px-ABC_News_logo_2021.svg.png" group-title="All Channels",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
