@@ -31,7 +31,7 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="All Channels",TV5
 
 
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
 https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715541233~acl=%2f*~data=hdntl~hmac=6e4da077a3422083896a20da0275f332eab40580654d2ac069468c54d023534e/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000p.m3u8?dw=32&ts=1715454000
 
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
