@@ -22,11 +22,17 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png" group-title="All Channels",NBA Philippines
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png" group-title="All Channels",NBA Philippines
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="All Channels",TV5
 
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715540093~acl=%2f*~data=hdntl~hmac=2cac6662458ddade1b847855a4e21953c51addaa916af9b4b1373d1f3ec23815/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000p.m3u8?dw=32&ts=1715450400
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715540093~acl=%2f*~data=hdntl~hmac=2cac6662458ddade1b847855a4e21953c51addaa916af9b4b1373d1f3ec23815/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000pb.m3u8?dw=32&ts=1715450400
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Gltv2017.png/revision/latest?cb=20220727064811" group-title="All Channels",GMA LIFE
 #http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
@@ -55,16 +61,11 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/320px-Al_Jazeera_Media_Network_Logo.svg.png" group-title="All Channels",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/320px-Al_Jazeera_Media_Network_Logo.svg.png" group-title="All Channels",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/320px-Bloomberg_Television_logo.svg.png" group-title="All Channels",Bloomberg
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
-
-#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
-#EXTVLCOPT:http-user-agent=
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="All Channels",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/d7324ea34d8417a9885049590963707e.m3u8
