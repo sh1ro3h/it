@@ -150,7 +150,7 @@ http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926185&extens
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png"" group-title="All Channels",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png" group-title="All Channels",Cinemax
 http://170.254.18.106/CINEMAX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="All Channels",Cinemo!
