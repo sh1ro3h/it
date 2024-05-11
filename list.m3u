@@ -32,14 +32,13 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
-https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715541233~acl=%2f*~data=hdntl~hmac=6e4da077a3422083896a20da0275f332eab40580654d2ac069468c54d023534e/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000p.m3u8?dw=32&ts=1715454000
+http://localhost/iptv/smni.php
 
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="All Channels",SMNI
-#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
-#https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715540093~acl=%2f*~data=hdntl~hmac=2cac6662458ddade1b847855a4e21953c51addaa916af9b4b1373d1f3ec23815/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000p.m3u8?dw=32&ts=1715450400
+https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715540093~acl=%2f*~data=hdntl~hmac=2cac6662458ddade1b847855a4e21953c51addaa916af9b4b1373d1f3ec23815/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000p.m3u8?dw=32&ts=1715450400
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2256000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
-#https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715540093~acl=%2f*~data=hdntl~hmac=2cac6662458ddade1b847855a4e21953c51addaa916af9b4b1373d1f3ec23815/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000pb.m3u8?dw=32&ts=1715450400
+https://playback2.akamaized.net/streams/19079954_7831871_lsid70e7x2upi69bpyv_1/exp=1715540093~acl=%2f*~data=hdntl~hmac=2cac6662458ddade1b847855a4e21953c51addaa916af9b4b1373d1f3ec23815/media/19079954_7831871_lsid70e7x2upi69bpyv_1@2256000pb.m3u8?dw=32&ts=1715450400
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Gltv2017.png/revision/latest?cb=20220727064811" group-title="All Channels",GMA LIFE
 #http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
