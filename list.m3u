@@ -29,7 +29,7 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="All Channels",GTV
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png" group-title="All Channels",Solar Flix
 
@@ -175,7 +175,7 @@ http://170.254.18.106/HBO_XTREME/tracks-v2a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png" tvg-logo="" group-title="All Channels",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png"" group-title="All Channels",Cinemax
 http://170.254.18.106/CINEMAX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/320px-Paramount_Network_2024.svg.png" group-title="All Channels",Paramount Network
