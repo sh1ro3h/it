@@ -17,7 +17,7 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/314px-One_Sports_logo.svg.png" group-title="All Channels",One Sports
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
+#http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
 
 
 
@@ -89,6 +89,15 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/240px-Food_Network_logo.svg.png" group-title="All Channels",Food Network
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="All Channels",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/320px-Discovery_Asia_logo.svg.png" group-title="All Channels",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_299968=5.m3u8
 
@@ -126,16 +135,8 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NickToons
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/240px-Food_Network_logo.svg.png" group-title="All Channels",Food Network
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="All Channels",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="All Channels",Cinemo!
-http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731855&extension=ts
 
 
 
@@ -149,15 +150,17 @@ http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=926185&extens
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png"" group-title="All Channels",Cinemax
+http://170.254.18.106/CINEMAX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="All Channels",Cinemo!
+http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731855&extension=ts
+
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="All Channels",HITS MOVIES
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731833&extension=ts
 
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="All Channels",PBO
 http://mag.gofast-tv.me/play/live.php?mac=00:1A:79:02:1F:C7&stream=731812&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/320px-AMC_logo_2019.svg.png" group-title="All Channels",AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/c1eaf906-2a2d-4d3b-a0e6-7ab2bb322b04/0.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/320px-HBO_Signature.svg.png" group-title="All Channels",HBO Signature
 http://170.254.18.106/HBO_SIG/tracks-v2a1/mono.m3u8
@@ -174,10 +177,8 @@ http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/320px-HBO_Xtreme.svg.png" group-title="All Channels",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/tracks-v2a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png"" group-title="All Channels",Cinemax
-http://170.254.18.106/CINEMAX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/320px-AMC_logo_2019.svg.png" group-title="All Channels",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/c1eaf906-2a2d-4d3b-a0e6-7ab2bb322b04/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/320px-Paramount_Network_2024.svg.png" group-title="All Channels",Paramount Network
 http://170.254.18.106/PARAMOUNT/tracks-v1a1/mono.m3u8
